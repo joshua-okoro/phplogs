@@ -1,0 +1,21 @@
+form{
+    width: 200px;
+    height: 300px;
+    display: block;
+    border: 2px solid rgb(211, 34, 34);
+    margin:20px auto;
+    background-image: linear-gradient(red,blue)
+    ;
+
+
+}
+input{
+    margin: 5px;
+    padding: 5px;
+    margin-left: 10px;
+
+}
+button{
+    margin-left: 120px;
+    margin-top: 10px;
+}
